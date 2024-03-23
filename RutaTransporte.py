@@ -14,9 +14,9 @@ Creado por:
     el sistema de transporte masivo local.
 """
 
-
-import networkx as nx
-import matplotlib.pyplot as plt
+# Bibliotecas utilizadas
+import networkx as nx # Manejo de grafos
+import matplotlib.pyplot as plt # Graficas
 
 # Creamos el grafo que contendra el diccionario de base de conocimientos logicas y reglas de distancia
 G = nx.DiGraph()
