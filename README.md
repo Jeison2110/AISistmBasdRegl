@@ -15,3 +15,6 @@ Corporación Universitaria Iberoamericana
 Escribir en Python las instrucciones para el desarrollo de un sistema inteligente que a partir de una base de
 conocimiento escrito en reglas lógicas, desarrolle la mejor ruta para moverse desde un punto A y un punto B en 
 el sistema de transporte masivo local.
+
+
+Para ejecutar el código, debes de tener instalado en tu maquina local o en un ambiente virtual las bibliotecas de networkx y matplotlib
